@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProycetoTryM</string>
+    <string name="YouHaveDescount">You have a descuont in .. from :</string>
+    <string name="subscribeteAndroid">Subscribete a Android</string>
+    <string name="subscribeteFirebase">Subscribete a Firebase</string>
+    <string name="unSubscribeteAndroid">UnSubscribeAndroid</string>
+    <string name="unSubscribeteFirebase">UnSuscribeFirebase</string>
+</resources>
